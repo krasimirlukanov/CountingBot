@@ -1,6 +1,6 @@
 {
   "counter": 0, 
-  "last_message_author": "", 
+  "last_message_author": "None", 
   "highscore": 0, 
-  "highscore_author": ""
+  "highscore_author": "None"
 }
